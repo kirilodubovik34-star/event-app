@@ -1,0 +1,13 @@
+bf27304 Add Git cheatsheet
+2dedffa Add project structure and Git workflow
+316167e Revert added paragraph
+a7c4a15 Add event description paragraph
+f00a236 Resolve merge conflict
+a3aa086 Merge branch 'feature-docs'
+bd5134c Asynchronous fetch for remote changes
+77ab337 Update heading text on GitHub
+e2436db Add setup documentation
+147611b Add initial documentation
+b519e3a Change heading text
+abfd74b Add blue CSS style to heading
+47e6383 Add initial HTML file
